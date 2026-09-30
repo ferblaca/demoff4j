@@ -1,0 +1,18 @@
+pom.xml
+  h_19ae496347280f 32
+src/main/java/com/example/demo/FeatureToggleSmokeCheck.java
+  h_19ae496347280f 1-66
+src/main/java/com/example/demo/config/AppConfiguration.java
+  h_19ae496347280f 9-16,18,22,25-26,30-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b0aea2590ce03b866d00c6674bfc9bbeb33b00d9",
+  "prompts": {},
+  "humans": {
+    "h_19ae496347280f": {
+      "author": "Fernando Blanch Calvete <fernandobc@ext.inditex.com>"
+    }
+  }
+}
