@@ -29,7 +29,7 @@
 	</scm>
 	<properties>
 		<java.version>25</java.version>
-		<ff4j.version>2.1</ff4j.version>
+		<ff4j.version>3.0.0</ff4j.version>
 	</properties>
 	<dependencies>
 		<dependency>
